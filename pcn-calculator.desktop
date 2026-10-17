@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PCN Calculator
+Comment=Advanced calculator with modern style
+Exec=pcn-calculator
+Icon=pcn-calculator
+Terminal=false
+Type=Application
+Categories=Utility;Calculator;
+Keywords=calculator;math;arithmetic;
+StartupNotify=true

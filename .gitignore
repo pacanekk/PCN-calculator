@@ -1,0 +1,7 @@
+build/
+*.rpm
+*.tar.gz
+*.o
+*.user
+.vscode/
+.idea/
